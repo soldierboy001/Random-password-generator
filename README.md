@@ -18,13 +18,13 @@ This app allows users to generate secure passwords with customizable options.
 ## 📸 Screenshots
 
 ### Main Interface
-![Main UI](screenshots/screenshot1.png)
+![Main UI](screenshot1.png)
 
 ### Generated Password
-![Generated Password](screenshots/screenshot2.png)
+![Generated Password](screenshot2.png)
 
 ### Copy Feature
-![Copy Password](screenshots/screenshot3.png)
+![Copy Password](screenshot3.png)
 
 ---
 
